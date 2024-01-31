@@ -21,7 +21,7 @@ type TSidebarItem = {
 const adminPaths = [
     {
         name: 'Dashboard',
-        path: "/admin/dashboard",
+        path: "admin/dashboard",
         element: <AdminDashbord />
     },
     {
